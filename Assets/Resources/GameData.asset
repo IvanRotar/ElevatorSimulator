@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa82463265af78048a83699cf36af7c6, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  FloorItemPrefab: {fileID: 4840194821767063858, guid: 7fcf3a4fa2d37af469a0213259bcd649,
+    type: 3}
+  ElevatorComandButton: {fileID: 3509787061694629845, guid: 5612278e35232e24ca6c26e2493fabef,
+    type: 3}
